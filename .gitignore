@@ -1,3 +1,6 @@
 .idea
 db.sqlite3
 venv
+__pycache__*
+gestao_contas/__pycache*
+*.pyc
